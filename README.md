@@ -10,7 +10,7 @@ there are some source files may be useful:
 - a tracking algorithm(KCF) jni lib: a java class using KCF C++ source with jni and opencv-android-sdk(decoder/jniKCF.java)
 - a scripts to connect the keypoint from CNN output heatmaps to a human body (decoder/common.java)
 
-
+At last, the model is 160M, so i did not upload it. if u wanna try this demo, convert cmu models use snpe, or email me: wu_rui_ze@163.com .
 
 # have fun
 
