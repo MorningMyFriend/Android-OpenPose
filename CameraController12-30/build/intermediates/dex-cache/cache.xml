@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.5.1_47b219fe07c76e04cccec8433d40002e8c6a16c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/android-studio3/gradle/gradle-4.1/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_1627d751e07080a5b727e1c2079390543a101b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_8c6d70867c7d095bd3f75f83f3d8296533829905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_bd675c1f1f37c7b37d3f02107a2d750da1e5ce31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_f9b4b72cf2781a3b2be39c86987decdd5810b493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/android-studio3/gradle/gradle-4.1/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_496f19d8d6c419a65bbb42f88433a6fbd236eb60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_08a60ad7ce14cbe8772d6784748d1153325eadfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_e37bb8bd3545105132d0479373da1f2d136ea9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/io.reactivex.rxjava2-rxandroid-2.0.1_08dbceaef51b89802972e8e54e463b2bf171aaa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/android-studio3/gradle/gradle-4.1/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/okio-1.13.0_269c4d3d236455f0bc4353d9db4f9e7b60b17c33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/snpe-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f596a32a5bcdba2db0fd17888962f6bd2e5e560">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-snpe-release_fffbb0aac98e2549bb832d8572a45e1aea7163d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/android-studio3/gradle/gradle-4.1/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_46092113b4eb835d1f17cfd93152a02844ea8a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_461715112dd26592475377dd31a48d8cedde718e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e420379c05a3aee16c41256b5175db448aab5217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/android-studio3/gradle/gradle-4.1/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0_213a1032a0ac6b5ec97516ac480ca1f63bde0887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_0faeba59235d53c2a8c2e064766bfed194c0d4c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/CameraController/openCVLibrary320/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="420a74c2173cb33b94e85260639abc64628d734c">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/CameraController-openCVLibrary320-unspecified_da6d6e20de6edeed93c2ed2b02c10ff288314cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/android-studio3/gradle/gradle-4.1/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_61a8ca7dbcb8bab3e45351a47e0c02617ceee80b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_7d12c1667304c33c895a990abd74880f775c2c0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_4b2e06efaa03fa75518fd217c0981b94ca03015b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0d74257f95f50536240bba41ddaec015613e5cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_dd6c686a66dc9d350d3f45017b43008f38cd9381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/android-studio3/gradle/gradle-4.1/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_e0e2ab3862b57766c6314a51b1e86883ed9651ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_f6f63154d2d4bb2492d393caed1dad2bec9837f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d8d8acc4ec65183c01bde73e44a4e9a1c2fa1f9a.jar" />
+    </item>
+
+</items>

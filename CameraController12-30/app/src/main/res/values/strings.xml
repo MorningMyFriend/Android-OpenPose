@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraController</string>
+    <string name="NoFace">目前检测结果：未检测到人脸</string>
+    <string name="FoundFace">目前检测结果：发现人脸</string>
+</resources>

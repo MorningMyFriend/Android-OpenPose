@@ -1,0 +1,1 @@
+The SNPE SDK aar must be dropped in this file's parent folder.

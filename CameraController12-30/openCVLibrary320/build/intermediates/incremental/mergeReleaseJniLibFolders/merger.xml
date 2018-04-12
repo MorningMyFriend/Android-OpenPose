@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController12-30/openCVLibrary320/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/home/wurui/project/android/OpenCV-android-sdk/samples/CameraController12-30/openCVLibrary320/src/release/jniLibs"/></dataSet></merger>

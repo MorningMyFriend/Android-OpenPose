@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="camera.hj.cameracontroller.ui.activity.pushUp.PushUpActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:orientation="vertical">
+
+        <SurfaceView
+            android:id="@+id/cameraSurface"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginBottom="5dp" />
+
+        <SurfaceView
+            android:id="@+id/BitmapSurface"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+
+            android:layout_below="@+id/cameraSurface" />
+
+
+        <TextView
+            android:id="@+id/result_text"
+            android:layout_width="match_parent"
+            android:layout_height="22dp"
+            android:layout_below="@+id/BitmapSurface"
+            android:layout_alignParentStart="true"
+            android:textSize="20dp"
+            android:text=" detecting "
+            android:textColor="@color/green"
+            />
+
+        <TextView
+            android:id="@+id/action_text"
+            android:layout_width="match_parent"
+            android:layout_height="22dp"
+            android:layout_below="@+id/result_text"
+            android:layout_alignParentStart="true"
+            android:textSize="20dp"
+            android:textColor="@color/red"
+            />
+
+        <TextView
+            android:id="@+id/time_text"
+            android:layout_width="match_parent"
+            android:layout_height="22dp"
+            android:layout_below="@+id/action_text"
+            android:layout_alignParentStart="true"
+            android:textSize="20dp"
+            android:textColor="@color/green"
+            />
+
+        <ImageView
+            android:id="@+id/square"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="112dp"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/face_white"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

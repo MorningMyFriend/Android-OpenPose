@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="camera.hj.cameracontroller">
+
+    <permission android:name="android.permission.CAMERA"></permission>
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:name=".CameraApplication"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ui.activity.WelcomeActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ui.activity.RegisterActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".ui.activity.MainPageActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light">
+        </activity>
+        <activity android:name=".ui.activity.pushUp.PushUpActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".ui.activity.pushUp.PushUp_VideoActivity"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity android:name=".ui.activity.pushUp.PushUP_ResultActivity"
+            android:screenOrientation="landscape">
+        </activity>
+
+    </application>
+
+</manifest>
