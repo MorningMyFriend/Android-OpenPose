@@ -16,10 +16,10 @@ there are some source files may be useful:
 
 though the algotithm can detect 18 keypoints of human body, consider the speed, i just track and draw 6 of them to realize a push-up counter. 
 
+![image](https://github.com/RuiZeWu/Android-OpenPose/blob/master/demo1-1.gif)
+
+![image](https://github.com/RuiZeWu/Android-OpenPose/blob/master/demo1-1.gif)
+
 ![image](https://github.com/RuiZeWu/Android-OpenPose/blob/master/demo2-1.gif)
 
-
-![image](https://github.com/RuiZeWu/Android-OpenPose/edit/master/demo2-2.gif)
-
-![image](https://github.com/RuiZeWu/Android-OpenPose/edit/master/demo2-3.gif)
 
